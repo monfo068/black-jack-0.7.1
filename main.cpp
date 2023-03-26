@@ -5,7 +5,7 @@
 #include <time.h>
 #include <fstream>
 using namespace std;
-// problemi con divisione poi allegro rendere tutto piu bello e commentare poi fare cosa carina "account"
+//black-jack console I suggest you download all the files otherwise it doesn't work, have fun
 void troppo()
 {
   cout << "dottore non puo puntare piu di quanto ha, non deve diventare ludopatico!!" << endl;
